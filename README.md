@@ -27,12 +27,12 @@ pip install neo4j requests
 
 ## Push to GitHub
 ```bash
-cd "C:\Users\gandh\OneDrive\Documents\Default Project"
+cd "C:\Users\deepanshu\Documents\nosql-labs"
 git init
 git add LAB2.md LAB3.md LAB4.md LAB5.md README.md
-git commit -m "Add NoSQL Lab Sheets 2-5 solutions"
+git commit -m "Add my NoSQL lab assignments"
 git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo>.git
+git remote add origin https://github.com/deepanshukashyap835/NoSQL-Lab-Assignments.git
 git push -u origin main
 ```
-Replace `<your-username>/<your-repo>` with your repo. If repo already exists locally, skip `git init` and just `git add/commit/push`.
+This repository contains my NoSQL Database Design lab assignments.
